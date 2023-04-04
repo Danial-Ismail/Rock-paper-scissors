@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    margin-top: 10%;
+    background-image: url(../images/istockphoto-1012423998-170667a.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+button{
+    background-color: rgba(0, 0, 255, 0.493);
+    padding: 10px;
+    border-radius: 10px;
+    color: aliceblue;
+    border: 1px solid rgba(0, 0, 255, 0.435);
+    font-size: 16px;
+}
+button:hover{
+    background-color: cornflowerblue;
+}
+button:active{
+    background-color: azure;
+}
